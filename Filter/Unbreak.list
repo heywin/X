@@ -17,3 +17,5 @@ DOMAIN,analytics.strava.com,DIRECT
 # > Umeng
 DOMAIN,msg.umeng.com,DIRECT
 DOMAIN,msg.umengcloud.com,DIRECT
+#绕过企业证书过期
+host, ocsp.apple.com,REJECT
