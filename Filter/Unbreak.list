@@ -19,17 +19,3 @@ DOMAIN,msg.umeng.com,DIRECT
 DOMAIN,msg.umengcloud.com,DIRECT
 #绕过企业证书过期
 host, ocsp.apple.com,REJECT
-# > TikTok
-USER-AGENT,TikTok*,PROXY
-DOMAIN-SUFFIX,muscdn.com,PROXY
-DOMAIN-SUFFIX,musical.ly,PROXY
-DOMAIN-SUFFIX,tiktokv.com,PROXY
-DOMAIN-SUFFIX,tiktokcdn.com,PROXY
-DOMAIN-KEYWORD,-tiktokcdn-com,PROXY
-#TIKTOK-去水印广告拦截
-host-suffix, musical.ly, proxy
-host-suffix, tiktokv.com,proxy
-host-suffix, tiktokcdn.com,proxy
-host-suffix, -tiktokcdn-com,proxy
-host-suffix, muscdn.com, proxy
-user-agent, TikTok*, proxy
