@@ -21,3 +21,4 @@ DOMAIN,msg.umengcloud.com,DIRECT
 DOMAIN,ocsp.apple.com,REJECT
 #熊猫博士识字
 DOMAIN-SUFFIX,xiongmaoboshi.com,DIRECT
+DOMAIN-SUFFIX,drpanda.com,DIRECT
