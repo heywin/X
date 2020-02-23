@@ -2,22 +2,22 @@
 # > General
 USER-AGENT,coffeecorp*,DIRECT
 USER-AGENT,restaurant-mobile*,DIRECT
-host,app.adjust.com,DIRECT
+DOMAIN,app.adjust.com,DIRECT
 # > Google
-host-suffix,googletraveladservices.com,DIRECT
-host,analyticsinsights-pa.googleapis.com,PROXY
-host,analyticsreporting.googleapis.com,PROXY
-host,dl.google.com,DIRECT
-host,mtalk.google.com,DIRECT
+DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
+DOMAIN,analyticsinsights-pa.googleapis.com,PROXY
+DOMAIN,analyticsreporting.googleapis.com,PROXY
+DOMAIN,dl.google.com,DIRECT
+DOMAIN,mtalk.google.com,DIRECT
 # > Tencent
-host,livew.l.qq.com,DIRECT
-host,vd.l.qq.com,DIRECT
+DOMAIN,livew.l.qq.com,DIRECT
+DOMAIN,vd.l.qq.com,DIRECT
 # > Strava
-host,analytics.strava.com,DIRECT
+DOMAIN,analytics.strava.com,DIRECT
 # > Umeng
-host,msg.umeng.com,DIRECT
-host,msg.umengcloud.com,DIRECT
+DOMAIN,msg.umeng.com,DIRECT
+DOMAIN,msg.umengcloud.com,DIRECT
 #绕过企业证书过期
-host, ocsp.apple.com,REJECT
+DOMAIN,ocsp.apple.com,REJECT
 #熊猫博士识字
-host-suffix, xiongmaoboshi.com, DIRECT
+DOMAIN-SUFFIX,xiongmaoboshi.com,DIRECT
