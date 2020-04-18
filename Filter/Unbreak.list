@@ -22,3 +22,8 @@ DOMAIN,ocsp.apple.com,REJECT
 #熊猫博士识字
 DOMAIN-SUFFIX,xiongmaoboshi.com,DIRECT
 DOMAIN-SUFFIX,drpanda.com,DIRECT
+# Shopify
+DOMAIN-SUFFIX,shopify.com,PROXY
+DOMAIN-SUFFIX,myshopify.com,PROXY
+DOMAIN-SUFFIX,shopifysvc.com,PROXY
+DOMAIN-SUFFIX,shopifycloud.com,PROXY
