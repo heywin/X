@@ -5,7 +5,7 @@ USER-AGENT,restaurant-mobile*,DIRECT
 DOMAIN,app.adjust.com,DIRECT
 # > Google
 DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
-DOMAIN,googleapis.com,PROXY
+DOMAIN-SUFFIX,googleapis.com,PROXY
 DOMAIN,dl.google.com,DIRECT
 DOMAIN,mtalk.google.com,DIRECT
 # > Tencent
