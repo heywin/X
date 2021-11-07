@@ -28,5 +28,3 @@ DOMAIN-SUFFIX,shopifysvc.com,PROXY
 DOMAIN-SUFFIX,shopifycloud.com,PROXY
 # Skype
 DOMAIN-SUFFIX,skype.com,PROXY
-# Binance
-DOMAIN-SUFFIX,binance.com,Binance
