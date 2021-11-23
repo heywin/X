@@ -29,4 +29,4 @@ DOMAIN-SUFFIX,shopifycloud.com,PROXY
 # Skype
 DOMAIN-SUFFIX,skype.com,PROXY
 # Binance
-DOMAIN-SUFFIX,binance.com,DIRECT
+HOST-KEYWORD,binance,DIRECT
