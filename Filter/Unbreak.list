@@ -30,3 +30,4 @@ DOMAIN-SUFFIX,shopifycloud.com,PROXY
 DOMAIN-SUFFIX,skype.com,PROXY
 # Binance
 DOMAIN-SUFFIX,binance.com,NotUS
+DOMAIN-SUFFIX,ip138.com,NotUS
