@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,shopifysvc.com,NotUS
 DOMAIN-SUFFIX,shopifycloud.com,NotUS
 # Skype
 DOMAIN-SUFFIX,skype.com,PROXY
-# Binance
+# Finance
 DOMAIN-KEYWORD,binance,NotUS
 DOMAIN-SUFFIX,kraken.com,NotUS
+DOMAIN-SUFFIX,skrill.com,NotUS
