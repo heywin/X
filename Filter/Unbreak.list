@@ -22,10 +22,10 @@ DOMAIN,ocsp.apple.com,REJECT
 DOMAIN-SUFFIX,xiongmaoboshi.com,DIRECT
 DOMAIN-SUFFIX,drpanda.com,DIRECT
 # Shopify
-DOMAIN-SUFFIX,shopify.com,PROXY
-DOMAIN-SUFFIX,myshopify.com,PROXY
-DOMAIN-SUFFIX,shopifysvc.com,PROXY
-DOMAIN-SUFFIX,shopifycloud.com,PROXY
+DOMAIN-SUFFIX,shopify.com,NotUS
+DOMAIN-SUFFIX,myshopify.com,NotUS
+DOMAIN-SUFFIX,shopifysvc.com,NotUS
+DOMAIN-SUFFIX,shopifycloud.com,NotUS
 # Skype
 DOMAIN-SUFFIX,skype.com,PROXY
 # Binance
