@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,shopify.com,NotUS
 DOMAIN-SUFFIX,myshopify.com,NotUS
 DOMAIN-SUFFIX,shopifysvc.com,NotUS
 DOMAIN-SUFFIX,shopifycloud.com,NotUS
+DOMAIN-SUFFIX,ip38.com,NotUS
 # Skype
 DOMAIN-SUFFIX,skype.com,PROXY
 # Finance
