@@ -24,6 +24,8 @@ DOMAIN-SUFFIX,drpanda.com,DIRECT
 # Shopify
 DOMAIN-SUFFIX,shopify.com,Shopify
 DOMAIN-SUFFIX,myshopify.com,Shopify
+DOMAIN-SUFFIX,shopifycdn.com,Shopify
+DOMAIN-SUFFIX,shopifycs.com,Shopify
 DOMAIN-SUFFIX,shopifysvc.com,Shopify
 DOMAIN-SUFFIX,shopifycloud.com,Shopify
 DOMAIN-SUFFIX,ip38.com,Shopify
