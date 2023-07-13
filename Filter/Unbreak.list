@@ -40,5 +40,5 @@ DOMAIN-SUFFIX,openai.com,OpenAI
 DOMAIN-SUFFIX,ai.com,OpenAI
 DOMAIN-SUFFIX,ip138.com,OpenAI
 # Vodafone UK
-DOMAIN-KEYWORD,binance,NotUS
+DOMAIN-KEYWORD,vodafone,NotUS
 DOMAIN-SUFFIX,ipinfo.io,NotUS
