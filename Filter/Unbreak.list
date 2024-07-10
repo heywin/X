@@ -28,7 +28,6 @@ DOMAIN-SUFFIX,shopifycdn.com,Shopify
 DOMAIN-SUFFIX,shopifycs.com,Shopify
 DOMAIN-SUFFIX,shopifysvc.com,Shopify
 DOMAIN-SUFFIX,shopifycloud.com,Shopify
-DOMAIN-SUFFIX,ip38.com,Shopify
 # Skype
 DOMAIN-SUFFIX,skype.com,PROXY
 # Finance
@@ -38,7 +37,10 @@ DOMAIN-SUFFIX,skrill.com,NotUS
 # ChatGPT
 DOMAIN-SUFFIX,openai.com,OpenAI
 DOMAIN-SUFFIX,ai.com,OpenAI
-DOMAIN-SUFFIX,ip138.com,OpenAI
 # Vodafone UK
 DOMAIN-KEYWORD,vodafone,NotUS
-DOMAIN-SUFFIX,ipinfo.io,NotUS
+# PayPal
+USER-AGENT,PayPal*,PayPal
+DOMAIN-KEYWORD,paypal,PayPal
+DOMAIN-SUFFIX,paypal.com,PayPal
+DOMAIN-SUFFIX,paypalobjects.com,PayPal
