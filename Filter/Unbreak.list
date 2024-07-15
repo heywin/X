@@ -3,11 +3,6 @@
 USER-AGENT,coffeecorp*,DIRECT
 USER-AGENT,restaurant-mobile*,DIRECT
 DOMAIN,app.adjust.com,DIRECT
-# > Google
-DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
-DOMAIN-SUFFIX,googleapis.com,PROXY
-DOMAIN,dl.google.com,DIRECT
-DOMAIN,mtalk.google.com,DIRECT
 # > Tencent
 DOMAIN,livew.l.qq.com,DIRECT
 DOMAIN,vd.l.qq.com,DIRECT
@@ -45,4 +40,12 @@ USER-AGENT,PayPal*,PayPal
 DOMAIN-KEYWORD,paypal,PayPal
 DOMAIN-SUFFIX,paypal.com,PayPal
 DOMAIN-SUFFIX,paypalobjects.com,PayPal
-DOMAIN-SUFFIX,ip38.com,PayPal
+# Monzo Wise Okx
+DOMAIN-KEYWORD,monzo,UK
+DOMAIN-SUFFIX,monzo.com,UK
+DOMAIN-SUFFIX,monzo-alt.net,UK
+DOMAIN-KEYWORD,wise,UK
+DOMAIN-SUFFIX,wise.com,UK
+DOMAIN-KEYWORD,okx,UK
+DOMAIN-KEYWORD,okx.com,UK
+DOMAIN-SUFFIX,ip38.com,UK
