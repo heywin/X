@@ -3,6 +3,12 @@
 USER-AGENT,coffeecorp*,DIRECT
 USER-AGENT,restaurant-mobile*,DIRECT
 DOMAIN,app.adjust.com,DIRECT
+# > Google
+#DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
+#DOMAIN-SUFFIX,googleapis.com,PROXY
+#DOMAIN,dl.google.com,DIRECT
+#DOMAIN,mtalk.google.com,DIRECT
+DOMAIN-KEYWORD,google,PROXY
 # > Tencent
 DOMAIN,livew.l.qq.com,DIRECT
 DOMAIN,vd.l.qq.com,DIRECT
