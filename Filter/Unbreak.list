@@ -55,3 +55,5 @@ DOMAIN-SUFFIX,wise.com,UK
 DOMAIN-KEYWORD,okx,UK
 DOMAIN-SUFFIX,okx.com,UK
 DOMAIN-SUFFIX,ip38.com,UK
+# UltraMobile Wifi Calling (eas3.msg.t-mobile.com)
+DOMAIN-SUFFIX,t-mobile.com,PROXY
