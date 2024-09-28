@@ -57,6 +57,10 @@ DOMAIN-SUFFIX,okx.com,UK
 DOMAIN-SUFFIX,ip38.com,UK
 # UltraMobile Wifi Calling (eas3.msg.t-mobile.com)
 DOMAIN-SUFFIX,t-mobile.com,PROXY
-# HSBCHK BOCHK
+# HSBCHK BOCHK ZA
 DOMAIN-SUFFIX,hsbc.com.hk,DIRECT
 DOMAIN-SUFFIX,bochk.com,DIRECT
+DOMAIN-SUFFIX,za.group,DIRECT
+DOMAIN-SUFFIX,zajourney.com,DIRECT
+DOMAIN-SUFFIX,zaticdn.com,DIRECT
+DOMAIN-SUFFIX,zafinsvc.com,DIRECT
