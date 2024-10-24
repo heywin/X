@@ -23,44 +23,10 @@ DOMAIN,ocsp.apple.com,REJECT
 DOMAIN-SUFFIX,xiongmaoboshi.com,DIRECT
 DOMAIN-SUFFIX,drpanda.com,DIRECT
 # Shopify
-DOMAIN-SUFFIX,shopify.com,Shopify
-DOMAIN-SUFFIX,myshopify.com,Shopify
-DOMAIN-SUFFIX,shopifycdn.com,Shopify
-DOMAIN-SUFFIX,shopifycs.com,Shopify
-DOMAIN-SUFFIX,shopifysvc.com,Shopify
-DOMAIN-SUFFIX,shopifycloud.com,Shopify
-DOMAIN-SUFFIX,ip138.com,Shopify
-# Skype
-DOMAIN-SUFFIX,skype.com,PROXY
-# Finance
-DOMAIN-KEYWORD,binance,NotUS
-DOMAIN-SUFFIX,kraken.com,NotUS
-DOMAIN-SUFFIX,skrill.com,NotUS
-# ChatGPT
-DOMAIN-SUFFIX,openai.com,OpenAI
-DOMAIN-SUFFIX,ai.com,OpenAI
-# Vodafone UK
-DOMAIN-KEYWORD,vodafone,NotUS
-# PayPal
-USER-AGENT,PayPal*,PayPal
-DOMAIN-KEYWORD,paypal,PayPal
-DOMAIN-SUFFIX,paypal.com,PayPal
-DOMAIN-SUFFIX,paypalobjects.com,PayPal
-# Monzo Wise Okx
-DOMAIN-KEYWORD,monzo,UK
-DOMAIN-SUFFIX,monzo.com,UK
-DOMAIN-SUFFIX,monzo-alt.net,UK
-DOMAIN-KEYWORD,wise,UK
-DOMAIN-SUFFIX,wise.com,UK
-DOMAIN-KEYWORD,okx,UK
-DOMAIN-SUFFIX,okx.com,UK
-DOMAIN-SUFFIX,ip38.com,UK
-# UltraMobile Wifi Calling (eas3.msg.t-mobile.com)
-DOMAIN-SUFFIX,t-mobile.com,PROXY
-# HSBCHK BOCHK ZA
-DOMAIN-SUFFIX,hsbc.com.hk,DIRECT
-DOMAIN-SUFFIX,bochk.com,DIRECT
-DOMAIN-SUFFIX,za.group,DIRECT
-DOMAIN-SUFFIX,zajourney.com,DIRECT
-DOMAIN-SUFFIX,zaticdn.com,DIRECT
-DOMAIN-SUFFIX,zafinsvc.com,DIRECT
+#DOMAIN-SUFFIX,shopify.com,Shopify
+#DOMAIN-SUFFIX,myshopify.com,Shopify
+#DOMAIN-SUFFIX,shopifycdn.com,Shopify
+#DOMAIN-SUFFIX,shopifycs.com,Shopify
+#DOMAIN-SUFFIX,shopifysvc.com,Shopify
+#DOMAIN-SUFFIX,shopifycloud.com,Shopify
+#DOMAIN-SUFFIX,ip138.com,Shopify
