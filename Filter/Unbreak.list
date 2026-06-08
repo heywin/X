@@ -4,10 +4,10 @@ USER-AGENT,coffeecorp*,DIRECT
 USER-AGENT,restaurant-mobile*,DIRECT
 DOMAIN,app.adjust.com,DIRECT
 # > Google
-#DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
+#DOMAIN-SUFFIX,googletraveladservices.com,PROXY
 #DOMAIN-SUFFIX,googleapis.com,PROXY
-#DOMAIN,dl.google.com,DIRECT
-#DOMAIN,mtalk.google.com,DIRECT
+#DOMAIN,dl.google.com,PROXY
+#DOMAIN,mtalk.google.com,PROXY
 DOMAIN-KEYWORD,google,PROXY
 # > Tencent
 DOMAIN,livew.l.qq.com,DIRECT
